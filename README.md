@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Ruhe Kabbani
+
+### ⚙️ GitHub Stats & Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afakruha2003&layout=compact&theme=tokyonight)
+
+
 
 🎓 Software Engineering Student at Hasan Kalyoncu University  
 💻 Full Stack Developer | Python | Django | JavaScript | HTML | CSS | C++  
@@ -15,9 +19,8 @@
 
 ---
 
-### ⚙️ GitHub Stats & Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afakruha2003&show_icons=true&theme=tokyonight)
+---
 
 ---
 
