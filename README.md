@@ -18,7 +18,6 @@
 ### ⚙️ GitHub Stats & Languages
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afakruha2003&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afakruha2003&layout=compact&theme=tokyonight)
 
 ---
 
