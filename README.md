@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Ruhe Kabbani
 
-<!--
-**afakruha2003/afakruha2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at Hasan Kalyoncu University  
+💻 Full Stack Developer | Python | Django | JavaScript | HTML | CSS | C++  
+🤖 Interested in Artificial Intelligence, Data Science, and Drone Technologies   
+🌱 Passionate about building useful and creative tech solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me  
+- 🧩 Love solving real-world problems through creative technology  
+- ⚙️ Focused on building robust, flexible, and reusable applications  
+- 💡 Strong foundation in both frontend and backend development  
+- 🤝 Open to collaboration and learning from open-source communities  
+
+---
+
+### ⚙️ GitHub Stats & Languages
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afakruha2003&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afakruha2003&layout=compact&theme=tokyonight)
+
+---
+
+### 🧩 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,cpp,git,github,vscode,arduino" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+[💼 LinkedIn](https://www.linkedin.com/in/ruha-kabbani/)  
+
+
