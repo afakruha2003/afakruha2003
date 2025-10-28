@@ -9,21 +9,6 @@
 🤖 Interested in Artificial Intelligence, Data Science, and Drone Technologies   
 🌱 Passionate about building useful and creative tech solutions  
 
----
-
-### 🧠 About Me  
-- 🧩 Love solving real-world problems through creative technology  
-- ⚙️ Focused on building robust, flexible, and reusable applications  
-- 💡 Strong foundation in both frontend and backend development  
-- 🤝 Open to collaboration and learning from open-source communities  
-
----
-
-
----
-
----
-
 ### 🧩 Languages & Tools
 
 <p align="left">
