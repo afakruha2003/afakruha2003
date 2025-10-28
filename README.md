@@ -1,9 +1,4 @@
 
-### ⚙️ GitHub Stats & Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afakruha2003&layout=compact&theme=tokyonight)
-
-
-
 🎓 Software Engineering Student at Hasan Kalyoncu University  
 💻 Full Stack Developer | Python | Django | JavaScript | HTML | CSS | C++  
 🤖 Interested in Artificial Intelligence, Data Science, and Drone Technologies   
