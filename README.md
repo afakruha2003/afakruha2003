@@ -6,7 +6,7 @@
 ###  Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,cpp" />
 </p>
 
 ---
