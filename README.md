@@ -1,7 +1,6 @@
 
  Software Engineering Student at Hasan Kalyoncu University  
- Full Stack Developer | Python | Django | JavaScript | HTML | CSS | C++  
- Interested in Artificial Intelligence, Data Science, and Drone Technologies   
+ Full Stack Developer | Python | Django | JavaScript | C++   
  Passionate about building useful and creative tech solutions  
 
 ###  Languages & Tools
